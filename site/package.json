@@ -16,6 +16,7 @@
     "deploy:worker": "npm run build:worker && wrangler deploy"
   },
   "dependencies": {
+    "@tailwindcss/postcss": "^4.0.9",
     "classnames": "^2.5.1",
     "date-fns": "^4.1.0",
     "gray-matter": "^4.0.3",
