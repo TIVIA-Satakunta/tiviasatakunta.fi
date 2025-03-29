@@ -4,10 +4,6 @@
 #
 name: Deploy Next.js site to Pages
 
-defaults:
-  run:
-    working-directory: ./site
-
 on:
   # Runs on pushes targeting the default branch
   push:
@@ -32,6 +28,9 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./site
     steps:
       - name: Checkout
         uses: actions/checkout@v4
