@@ -58,13 +58,13 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Build with Next.js
-        run: next build
+        run: npm build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./out
       # - name: Deploy to cloudflare
-      #   run: ${{ steps.detect-package-manager.outputs.runner }} next deploy
+      #   run: ${{ steps.detect-package-manager.outputs.runner }} npm deploy
 
   # Deployment job
   deploy:
