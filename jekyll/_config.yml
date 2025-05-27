@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   TIVIA Satakunta ry - Tietojenkäsittelyn ja tietotekniikan parissa
   työskentelevien, opiskelevien sekä harrastavien ihmisten satakuntalaista
   yhteistoimintaa jo vuodesta 1971. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/tiviasatakunta.fi" # the subpath of your site, e.g. /blog
+url: "https://tivia-satakunta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: TIVIA-Satakunta
 
