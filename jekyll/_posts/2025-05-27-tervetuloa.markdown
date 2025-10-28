@@ -6,4 +6,4 @@ categories: tivia website jekyll
 ---
 Tänään oli hyvä sää, hyttysiä ja grillissä makkaraa Pori Hacklabin miitissä.
 
-Vanhat sivut löytyvät vielä osoitteesta https://www.satkynet.fi/
+Vanhat sivut löytyvät vielä osoitteesta [www.satkynet.fi](https://www.satkynet.fi/)
