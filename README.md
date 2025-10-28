@@ -2,31 +2,8 @@
 
 ## General
 
-GitHub Actions deploy content to Cloudflare Pages from markdown files in the repo.
+GitHub Pages using Jekyll https://docs.github.com/en/pages
 
-## Local development prerequisites
+## Deploy changes
 
-- Install nvm
-  - `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash`
-  - `exit # Restart terminal to get nvm in path` 
-- Install nodejs 22
-  - `nvm install 22`
-  - `npm update -g npm`
-- Clone the repo
-  - `mkdir ~/git`
-  - `cd ~/git`
-  - `gh repo clone TIVIA-Satakunta/tiviasatakunta.fi # Requires GitHub CLI previously setup`
-- Start dev server
-  - `cd opennext`
-  - `npm run start`
-
-## Deploying to Cloudflare preview
-
-- TODO
-
-## Deploying to Cloudflare production
-
-- `npm run deploy:worker`
-- TODO: Add deployment to custom domain
-- TODO: Add GitHub Actions workflow
-
+Just commit markdown to main repo and the GitHub Action will automatically deploy a new version.
