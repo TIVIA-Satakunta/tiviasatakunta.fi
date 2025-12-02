@@ -7,10 +7,11 @@ permalink: /yhdistys/liittyminen
 
 ## Jäsenyys
 
-Tivia Satakunta ry:n jäseneksi voi hakea lähettämällä pyyntö sähköpostitse:
-* yhdistys @ tiviasatakunta.fi ( tai satky.aineisto+jasen @ gmail.com )
-otsikolla
-* "Liittyminen yhdistyksen jäseneksi"
+Tivia Satakunta ry:n jäseneksi voi hakea lähettämällä pyyntö
+* sähköpostiosoitteeseen
+ * yhdistys @ tiviasatakunta.fi ( tai satky.aineisto+jasen @ gmail.com )
+* otsikolla
+ * "Liittyminen yhdistyksen jäseneksi"
 Hallitus käsittelee pyynnön seuraavassa käsittelyssään ja vastaa sinulle mahdollisimman pian.
 
 Hallitus seuraa jäsenen jäsenyyttä jäsenmaksutapahtumien perusteella.
@@ -24,7 +25,7 @@ TIVIAn jäsenet maksavat TIVIAn määräämän jäsenmaksun ja saavat TIVIAn jä
 TIVIAn vuosimaksu sisältää myös TIVIA Satakunta ry:n jäsenmaksun.
 TIVIAan kuulumattomat jäsenet maksavat siis jäsenmaksun suoraan TIVIA Satakunta ry:lle em. ohjeistuksen mukaan. 
 
-Jos haluat liittyä TIVIAn kautta, käytä TIVIAn liittymissivua. https://tivia.fi 
+Jos haluat liittyä TIVIAn kautta, käytä TIVIAn liittymissivua. (https://tivia.fi)
 Varmista, että valittuna Jäsenyhdistyksenä on TIVIA Satakunta ry.
 Tässä tapauksessa jäsenyyttä hallinnoi ( ja esim. laskutuksen hoitaa ) TIVIA, ei TIVIA Satakunta ry.
 
