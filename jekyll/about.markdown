@@ -5,7 +5,7 @@ permalink: /yhdistys/esittely
 ---
 Tietojenkäsittelyn ja tietotekniikan parissa työskentelevien, opiskelevien sekä harrastavien ihmisten satakuntalaista yhteistoimintaa jo vuodesta 1971. 
 
-# Toiminta - Pori Hacklab
+# Toiminta - lyhyesti
 
 Yhdistys on toiminut jo vuosikymmenten ajan. Toimintaan on kuulunut messutapahtumien järjestäminen (vielä 90-luvulla), koulutustilaisuuksia, yritysvierailuja, vapaa-ajan rientoja sekä muita verkostoitumistilaisuuksia Satakunnan alueella.
 Toiminta on 2010-luvulta alkaen merkittävästi tiivistynyt vapaamuotoisiin tilaisuuksiin ja työryhmätoimintaan.
