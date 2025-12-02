@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: TIVIA Satakunta ry
-email: satky.aineisto@gmail.com
+email: yhdistys@tiviasatakunta.fi
 description: >- # this means to ignore newlines until "baseurl:"
   TIVIA Satakunta ry - Tietojenkäsittelyn ja tietotekniikan parissa
   työskentelevien, opiskelevien sekä harrastavien ihmisten satakuntalaista
