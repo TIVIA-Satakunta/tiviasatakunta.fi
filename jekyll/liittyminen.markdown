@@ -9,9 +9,9 @@ permalink: /yhdistys/liittyminen
 
 Tivia Satakunta ry:n jäseneksi voi hakea lähettämällä pyyntö
 * sähköpostiosoitteeseen
- * yhdistys @ tiviasatakunta.fi ( tai satky.aineisto+jasen @ gmail.com )
+  * yhdistys @ tiviasatakunta.fi ( tai satky.aineisto+jasen @ gmail.com )
 * otsikolla
- * "Liittyminen yhdistyksen jäseneksi"
+  * "Liittyminen yhdistyksen jäseneksi"
 Hallitus käsittelee pyynnön seuraavassa käsittelyssään ja vastaa sinulle mahdollisimman pian.
 
 Hallitus seuraa jäsenen jäsenyyttä jäsenmaksutapahtumien perusteella.
