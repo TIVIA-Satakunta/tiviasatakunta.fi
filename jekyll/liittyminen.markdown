@@ -26,7 +26,7 @@ TIVIAn jäsenet maksavat TIVIAn määräämän jäsenmaksun ja saavat TIVIAn jä
 TIVIAn vuosimaksu sisältää myös TIVIA Satakunta ry:n jäsenmaksun.
 TIVIAan kuulumattomat jäsenet maksavat siis jäsenmaksun suoraan TIVIA Satakunta ry:lle em. ohjeistuksen mukaan. 
 
-Jos haluat liittyä TIVIAn kautta, käytä TIVIAn liittymissivua. (https://tivia.fi)
+Jos haluat liittyä TIVIAn kautta, käytä TIVIAn liittymissivua. [https://tivia.fi]
 Varmista, että valittuna Jäsenyhdistyksenä on TIVIA Satakunta ry.
 Tässä tapauksessa jäsenyyttä hallinnoi ( ja esim. laskutuksen hoitaa ) TIVIA, ei TIVIA Satakunta ry.
 
