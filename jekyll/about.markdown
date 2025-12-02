@@ -3,13 +3,19 @@ layout: page
 title: Esittely
 permalink: /yhdistys/esittely
 ---
+Tietojenkäsittelyn ja tietotekniikan parissa työskentelevien, opiskelevien sekä harrastavien ihmisten satakuntalaista yhteistoimintaa jo vuodesta 1971. 
 
-Yhdistyksen nimi on Satakunnan Tietojenkäsittely-yhdistys ry ja sen kotipaikka on Porin kaupunki.
+# Toiminta - Pori Hacklab
 
-Yhdistyksen tarkoituksena on toimia tietotekniikan parissa työskentelevien tai siitä kiinnostuneiden yksityisten henkilöiden ja oikeuskelpoisten yhteisöjen yhdyssiteenä Satakunnan alueella ja tukea näiden yhteisiä pyrkimyksiä. Yhdistyksen tarkoituksena ei ole toiminnallaan tuottaa siihen osallisille voittoa eikä välitöntä taloudellista ansiota.
+Yhdistys on toiminut jo vuosikymmenten ajan. Toimintaan on kuulunut messutapahtumien järjestäminen (vielä 90-luvulla), koulutustilaisuuksia, yritysvierailuja, vapaa-ajan rientoja sekä muita verkostoitumistilaisuuksia Satakunnan alueella.
+Toiminta on 2010-luvulta alkaen merkittävästi tiivistynyt vapaamuotoisiin tilaisuuksiin ja työryhmätoimintaan.
 
-Yhdistyksen tarkoituksena ei ole myöskään toimia jäsentensä etuja ajavana ammattiyhdistyksenä.
+## Pori Hacklab
 
-Tarkoituksensa toteuttamiseksi yhdistys järjestää tiedotus- ja koulutustilaisuuksia, tutustumiskäyntejä ja muuta samanlaista yhdistyksen tarkoitusta edistävää toimintaa sekä osallistuu tutkimus- ja standardisointityöhön.
+Tällä hetkellä yhdistyksen ainoa aktiivinen työryhmä on Pori Hacklab, joka tekee säännöllisesti yhteistyötä myös paikallisen T.E.H.D.A.S Ry:n kanssa.
+Hacklabilla on ollut pitkään melko aktiivinen whatsapp-ryhmä, jonka jäseniä myös kokoontuu ajoittain Porissa Väinölän radiotalolla osoitteessa radioasemantie. 
 
-Satakunnan tietojenkäsittely-yhdistys on valtakunnallisen [Tieto- ja viestintätekniikan ammattilaiset TIVIA ry](http://www.tivia.fi/):n jäsenyhdistys.
+## TIVIA
+
+Yhdistys on osa Tieto- ja viestintätekniikan ammattilaiset TIVIA ry:tä. TIVIAn tavoitteena on jäsenistön ammatillisen osaamisen ja arvostuksen kehittäminen. TIVIA ja sen jäsenyhdistykset järjestävät vuoden mittaan paljon tapahtumia ja ammatillista koulutusta.
+Yhdistyksen jäsen ei automaattisesti ole TIVIAn jäsen, mutta yhdistyksen kautta voi kuulua TIVIAn jäsenistöön. 
