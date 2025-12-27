@@ -2,7 +2,7 @@
 layout: post
 title:  "Tervetuloa"
 date:   2025-12-03 21:04:13 +0300
-categories: tivia website jekyll
+categories: tivia website jekyll archive
 ---
 Yhdistyksen esittely löytyy osoitteesta [/yhdistys/esittely](/yhdistys/esittely)
 
