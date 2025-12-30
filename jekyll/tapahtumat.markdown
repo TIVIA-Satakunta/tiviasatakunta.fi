@@ -10,8 +10,8 @@ Seuraa täällä tulevia ja menneitä tapahtumia.
 
 Ks. syyskokouksen ja kevätkokouksen asialistat sekä tarkemmat osallistumistiedot
 täältä (kokoustiedot päivitetään vuosittain sääntöjen edellyttämällä tavalla):
-- syyskokous /yhdistys/syyskokous
-- kevätkokous /yhdistys/kevatkokous
+- [syyskokous](/yhdistys/syyskokous)
+- [kevätkokous](/yhdistys/kevatkokous)
 
 ## Tulevat tapahtumat
 
