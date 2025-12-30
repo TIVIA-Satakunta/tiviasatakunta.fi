@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Syyskokous
+title: Syyskokous 2026
 permalink: /yhdistys/syyskokous
 ---
 
-# Syyskokous
+# Syyskokous 
 
 Hyvä yhdistyksen jäsen, tervetuloa syyskokoukseen.
 
