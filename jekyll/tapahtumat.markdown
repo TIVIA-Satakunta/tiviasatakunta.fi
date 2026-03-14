@@ -23,7 +23,7 @@ täältä (kokoustiedot päivitetään vuosittain sääntöjen edellyttämällä
 
 ## Menneet tapahtumat
 
-- Syyskokous ke 29.10.2026 klo 18.00
+- Syyskokous ke 29.10.2025 klo 18.00
 - Kevätkokous ke 23.4.2025 kello 18.00
 - Joutsijärven Hiivaniemen retkipäivä la 16.8.2025 kello 11.30 alkaen
 - Kevätkokous to 25.4.2024 kello 18.00
