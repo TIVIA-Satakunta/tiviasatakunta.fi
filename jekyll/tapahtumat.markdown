@@ -16,11 +16,12 @@ täältä (kokoustiedot päivitetään vuosittain sääntöjen edellyttämällä
 
 ## Tulevat tapahtumat
 
-- Joutsijärven Hiivaniemen retkipäivä la 19.9.2026 kello 12 alkaen
-- Syyskokous to 22.10.2026 klo 18.00
+
+- Syyskokous to 29.10 klo 18.00
 
 ## Menneet tapahtumat
 
+- Joutsijärven Hiivaniemen retkipäivä la 19.9.2026 kello 12 alkaen
 - Kevätkokous to 23.4.2026 klo 18.00
 - Vierailu Porin ilmailuopistolla ma 27.4 klo 1630 - ilmoittaudu 13.4 mennessä
 - Syyskokous ke 29.10.2025 klo 18.00
