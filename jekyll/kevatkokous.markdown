@@ -10,7 +10,7 @@ Hyvä yhdistyksen jäsen, tervetuloa kevätkokoukseen.
 
 Paikka: Etäyhteyksin osoitteessa [meet.jit.si](https://meet.jit.si/tiviasatakuntakevatkokous)
 
-Aika: 22.4.2026 (to) klo 18.00
+Aika: 22.4.2027 (to) klo 18.00
 
 Asialista:
 
