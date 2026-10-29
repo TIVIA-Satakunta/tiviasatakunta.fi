@@ -4,13 +4,13 @@ title: Syyskokous
 permalink: /yhdistys/syyskokous
 ---
 
-# Syyskokous 2026
+# Syyskokous 2027
 
 Hyvä yhdistyksen jäsen, tervetuloa syyskokoukseen.
 
-Paikka: Etäyhteyksin osoitteessa [meet.jit.si](https://meet.jit.si/tiviasatakuntasyyskokous2026)
+Paikka: Etäyhteyksin osoitteessa [meet.jit.si](https://meet.jit.si/tiviasatakuntasyyskokous)
 
-Aika: 29.10.2026 (to) klo 18.00
+Aika: 28.10.2027 (to) klo 18.00
 
 Asialista:
 
